@@ -1,7 +1,7 @@
 # 🩺 COVID-19 Chest X-ray Classification using CNN
 
 This project is a **deep learning-based classifier** for detecting **COVID-19 and other pneumonia types** from chest X-ray images. The model is trained using **Convolutional Neural Networks (CNNs)** on a publicly available X-ray dataset.
-
+ 
 ## 📌 Features
 
 - **Dataset Handling**: Loads and preprocesses chest X-ray images.
